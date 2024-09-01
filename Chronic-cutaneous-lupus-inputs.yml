@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/discoid-chronic-cutaneous-lupus---undefined.py
+inputModule3:
+  class: File
+  path: python/chronic-cutaneous-lupus---undefined.py
+inputModule4:
+  class: File
+  path: python/chronic-cutaneous-lupus-panniculitis---undefined.py
+inputModule5:
+  class: File
+  path: python/chronic-cutaneous-lupus-chillblain---undefined.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
